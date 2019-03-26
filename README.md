@@ -27,9 +27,9 @@ The DGDI Dataset and associated data ('Licensed Material') are made available to
 
 The current version of the DGDI Dataset [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdataset/UQSNPRenal_dataset.7z)
 
-The trained models [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdataset/models.7z)
+The trained models [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/models.7z)
 
-Examples of original .tif format image [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdataset/sample_data.7z)
+Examples of original .tif format image [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/sample_data.7z)
 
 # Citation
 
