@@ -29,6 +29,8 @@ The current version of the DGDI Dataset [download](https://outbox.eait.uq.edu.au
 
 The trained models [download](https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdataset/models.7z)
 
+Examples of original .tif format image [download] (https://outbox.eait.uq.edu.au/uqkzhao1/RenalDataset/DGDIdataset/sample_data.7z)
+
 # Citation
 
  K. Zhao, Y. J. J. Tang, T. Zhang, J. Carvajal, D. F. Smith, A. Wiliem, P. Hobson, A. Jennings and B. Lovell "DGDI: A Dataset for Detecting Glomeruli on Renal Direct Immunofluorescence".  Digital Image Computing: Techniques and Applications, 2018.
